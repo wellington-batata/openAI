@@ -5,5 +5,6 @@ OpenAI is an artificial intelligence research laboratory consisting of the for-p
 
 - [DOCS OpenAI][1]
 - [OpenAI Reference API][2]
+
 [1]: https://platform.openai.com/docs/introduction
 [2]: https://platform.openai.com/docs/api-reference
